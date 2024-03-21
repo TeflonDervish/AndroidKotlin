@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Неявные намерения</string>
+    <string name="address">Адрес</string>
+    <string name="title">Заголовок</string>
+    <string name="enter_letters_theme">Введите тему письма</string>
+    <string name="letter_text">Текст письма</string>
+    <string name="send">Отправить</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="call">Позвонить</string>
+
+</resources>

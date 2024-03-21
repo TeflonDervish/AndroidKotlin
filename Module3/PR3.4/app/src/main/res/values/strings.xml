@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">Списочные представления</string>
+    <string-array name="color_associations">
+        <item>IndianRed: Традиционный индийский сари, Закатное небо</item>
+        <item>LightCoral: Коралловый риф, Лососевое суши</item>
+        <item>Salmon: Лосось, Рассветное небо</item>
+        <item>DarkSalmon: Дикий лосось, Старинная кожа</item>
+        <item>LightSalmon: Лососевая икра, Розовый грейпфрут</item>
+        <item>Crimson: Кроваво-красный закат, Маковое поле</item>
+        <item>Red: Красная роза, Пожарная машина</item>
+        <item>FireBrick: Кирпичная стена, Темно-красная крыша</item>
+        <item>DarkRed: Венозная кровь, Бордовое вино</item>
+        <item>Pink: Розовые тюльпаны, Детская жевательная резинка</item>
+        <item>LightPink: Розовые облака на закате, Розовый макарон</item>
+        <item>HotPink: Фламинго, Неоновая вывеска</item>
+        <item>DeepPink: Гибискус, Яркая помада</item>
+        <item>MediumVioletRed: Лавандовые поля, Средний фиолетовый закат</item>
+        <item>PaleVioletRed: Бледно-фиолетовый рассвет, Розовый кварц</item>
+        <item>Coral: Кораллы, Коралловая помада</item>
+        <item>Tomato: Спелые помидоры, Красный кетчуп</item>
+        <item>OrangeRed: Осенние листья, Огонь костра</item>
+        <item>DarkOrange: Хурма, Осенний закат</item>
+        <item>Orange: Апельсин, Хэллоуинская тыква</item>
+        <item>Gold: Золотая монета, Золотые серьги</item>
+        <item>Yellow: Яркое солнце, Лимон</item>
+        <item>LightYellow: Светлый лимонный пирог, Яркий луч солнца</item>
+        <item>LemonChiffon: Лимонный шифоновый пирог, Светлый лимон</item>
+        <item>LightGoldenrodYellow: Бледное золото, Светлый одуванчик</item>
+        <item>PapayaWhip: Спелая папайя, Папайя смузи</item>
+        <item>Moccasin: Мокасины, Песчаный берег</item>
+        <item>PeachPuff: Персиковый пирог, Персиковый блеск для губ</item>
+        <item>PaleGoldenrod: Светлые золотые поля, Бледный одуванчик</item>
+        <item>Khaki: Военная форма, Пустынный песок</item>
+        <item>DarkKhaki: Оливковые ветви, Горная тропа</item>
+        <item>Lavender: Лавандовые поля, Лавандовый аромат</item>
+        <item>Thistle: Чертополох, Светло-фиолетовый туман</item>
+        <item>Plum: Слива, Виноградный сок</item>
+        <item>Violet: Фиалки, Аметист</item>
+        <item>Orchid: Орхидеи, Сиреневый свитер</item>
+        <item>Fuchsia: Фуксия цветок, Яркий румянец</item>
+        <item>Magenta: Магнолия, Ярко-розовые вечерние платья</item>
+        <item>MediumOrchid: Средняя орхидея, Лавандовый шарф</item>
+        <item>MediumPurple: Средне-пурпурные облака на закате, Пурпурный виноград</item>
+        <item>BlueViolet: Гортензия, Сине-фиолетовая акварель</item>
+        <item>DarkViolet: Темно-фиолетовая айва, Фиолетовые тени</item>
+        <item>DarkOrchid: Темная орхидея, Темно-сиреневый кашемир</item>
+        <item>DarkMagenta: Темно-малиновый, Малиновый сироп</item>
+        <item>Purple: Лавандовый мед, Пурпурный бархат</item>
+        <item>Indigo: Индиго джинсы, Ночное небо</item>
+        <item>SlateBlue: Голубая сланцевая крыша, Синий дым</item>
+        <item>DarkSlateBlue: Темно-синий пион, Ночная река</item>
+        <item>Cornsilk: Кукурузные волокна, Светлый шелк</item>
+        <item>BlanchedAlmond: Бланшированный миндаль, Светлый миндальный крем</item>
+        <item>Bisque: Бисквит, Светлый терракот</item>
+        <item>NavajoWhite: Навахо белый керамический, Пустынный песок</item>
+        <item>Wheat: Пшеничное поле, Светлая солома</item>
+        <item>BurlyWood: Старый дуб, Древесная кора</item>
+        <item>Tan: Загорелая кожа, Кожаные сапоги</item>
+        <item>RosyBrown: Розово-коричневая глина, Старая кирпичная стена</item>
+        <item>SandyBrown: Песчаный берег, Коричневый сахар</item>
+        <item>Goldenrod: Золотарник, Осенние листья</item>
+        <item>DarkGoldenRod: Темный золотой дождь, Поздняя осень</item>
+        <item>Peru: Перуанская глина, Старая кожа</item>
+        <item>Chocolate: Шоколад, Коричневый медведь</item>
+        <item>SaddleBrown: Кожаное седло, Старая кожа</item>
+        <item>Sienna: Сиенская земля, Осенний лес</item>
+        <item>Brown: Коричневый медведь, Земля</item>
+        <item>Maroon: Каштан, Темно-красное вино</item>
+        <item>Black: Ночное небо, Уголь</item>
+        <item>Gray: Серый асфальт, Сталь</item>
+        <item>Silver: Серебряная монета, Серебряная рыба</item>
+        <item>White: Снег, Белая бумага</item>
+        <item>Olive: Оливковое масло, Оливковые листья</item>
+        <item>Lime: Лайм, Светло-зеленые листья</item>
+        <item>Green: Зеленая трава, Зеленые листья</item>
+        <item>Aqua: Чистая вода, Аквамарин</item>
+        <item>Teal: Чирок, Темно-бирюзовая ткань</item>
+        <item>Blue: Небо, Океан</item>
+        <item>Navy: Морская пехота, Темно-синий костюм</item>
+        <item>GreenYellow: Желто-зеленые листья, Яблоко грэнни-смит</item>
+        <item>Chartreuse: Листья винограда, Шартрез</item>
+        <item>LawnGreen: Газон, Зеленый мох</item>
+        <item>LimeGreen: Зеленый лайм, Молодая трава</item>
+        <item>PaleGreen: Светлая зелень, Бледные листья</item>
+        <item>LightGreen: Светло-зеленые листья, Зеленый чай</item>
+        <item>MediumSpringGreen: Весенние листья, Средне-весенний зеленый</item>
+        <item>SpringGreen: Весенняя зелень, Молодая трава</item>
+        <item>MediumSeaGreen: Морская вода, Зеленые водоросли</item>
+        <item>SeaGreen: Морской зеленый, Водоросли</item>
+        <item>ForestGreen: Лесная зелень, Зеленый мох</item>
+        <item>DarkGreen: Темно-зеленый мох, Зеленая ель</item>
+        <item>YellowGreen: Желто-зеленые листья, Спелый лимон</item>
+        <item>OliveDrab: Оливковый древесный, Военная форма</item>
+<!--        <item>Olive: Оливковое масло, Оливковые листья</item>-->
+        <item>DarkOliveGreen: Темный оливковый лист, Старый мох</item>
+        <item>MediumAquamarine: Морской волнорез, Аквамариновый камень</item>
+        <item>DarkSeaGreen: Темно-морской зеленый, Морская пена</item>
+        <item>LightSeaGreen: Светло-морской зеленый, Бирюза</item>
+        <item>DarkCyan: Темно-бирюзовый, Глубокие воды</item>
+<!--        <item>Teal: Чирок, Темно-бирюзовая ткань</item>-->
+<!--        <item>Aqua: Чистая вода, Аквамарин</item>-->
+        <item>Cyan: Бирюза, Ясное небо</item>
+        <item>LightCyan: Светлая бирюза, Лед</item>
+        <item>PaleTurquoise: Бледно-бирюзовый, Легкая вуаль</item>
+        <item>Aquamarine: Аквамарин, Морской волнорез</item>
+        <item>Turquoise: Бирюзовый камень, Ярко-бирюзовая ткань</item>
+        <item>MediumTurquoise: Средний бирюзовый, Теплое море</item>
+        <item>DarkTurquoise: Темный бирюзовый, Глубокое море</item>
+        <item>CadetBlue: Кадетская форма, Темно-голубое небо</item>
+        <item>SteelBlue: Стальной голубой, Холодное железо</item>
+        <item>LightSteelBlue: Светлый стальной голубой, Металлический блеск</item>
+        <item>PowderBlue: Пудрово-голубой, Нежное утреннее небо</item>
+        <item>LightBlue: Светло-голубой, Ясное утреннее небо</item>
+        <item>SkyBlue: Небесно-голубой, Чистое дневное небо</item>
+        <item>LightSkyBlue: Светлый небесно-голубой, Легкий воздушный шарф</item>
+        <item>DeepSkyBlue: Глубокий небесно-голубой, Летнее небо</item>
+        <item>DodgerBlue: Голубой бейсболист, Яркое дневное небо</item>
+        <item>CornflowerBlue: Васильковый, Цветы василька</item>
+        <item>MediumSlateBlue: Средний сланцево-голубой, Горная река</item>
+        <item>RoyalBlue: Королевский синий, Глубокий океан</item>
+        <item>MediumBlue: Средний синий, Летняя ночь</item>
+<!--        <item>Blue: Небо, Океан</item>-->
+        <item>DarkBlue: Темно-синий, Ночное небо</item>
+        <item>MidnightBlue: Полуночно-синий, Глубокая ночь</item>
+        <item>Snow: Заснеженный пейзаж, Белый пушистый снег</item>
+<!--        <item>Navy: Морская пехота, Темно-синий костюм</item>-->
+<!--        <item>White: Снег, Белая бумага</item>-->
+        <item>Honeydew: Медовая роса, Светлый мелон</item>
+        <item>MintCream: Мятный крем, Мятное мороженое</item>
+        <item>Azure: Лазурь, Ясное летнее небо</item>
+        <item>AliceBlue: Голубой Алисы, Светлый лед</item>
+        <item>GhostWhite: Призрачно-белый, Туманный вечер</item>
+        <item>WhiteSmoke: Белый дым, Легкий туман</item>
+        <item>Seashell: Раковина, Пляжный песок</item>
+        <item>Beige: Бежевый, Пустынный песок</item>
+        <item>OldLace: Старое кружево, Светлая слоновая кость</item>
+        <item>FloralWhite: Цветочно-белый, Свадебное платье</item>
+        <item>Ivory: Слоновая кость, Старинный пергамент</item>
+        <item>AntiqueWhite: Антично-белый, Старинный мрамор</item>
+        <item>Linen: Льняной, Льняная ткань</item>
+        <item>LavenderBlush: Лавандовый румянец, Нежный закат</item>
+        <item>MistyRose: Туманная роза, Рассвет</item>
+        <item>Gainsboro: Гейнсборо, Старинный серебряный</item>
+        <item>LightGrey: Светло-серый, Серебристая рыба</item>
+        <item>LightGray: Светло-серый, Светлый гранит</item>
+        <item>DarkGray: Темно-серый, Грозовые тучи</item>
+        <item>DarkGrey: Темно-серый, Старая сталь</item>
+        <item>Grey: Серый, Серый асфальт</item>
+        <item>DimGray: Приглушенно-серый, Глубокая тень</item>
+        <item>DimGrey: Приглушенно-серый, Угольная пыль</item>
+        <item>LightSlateGray: Светло-сланцево-серый, Гладкий камень</item>
+        <item>LightSlateGrey: Светло-сланцево-серый, Старый металл</item>
+        <item>SlateGray: Сланцево-серый, Горная порода</item>
+        <item>DarkSlateGray: Темно-сланцево-серый, Глубокое море</item>
+    </string-array>
+</resources>

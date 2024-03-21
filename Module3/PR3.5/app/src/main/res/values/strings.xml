@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="switch_fragments">Поменять фрагменты</string>
+</resources>
